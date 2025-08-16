@@ -1,0 +1,5 @@
+streamlit
+openai
+aiohttp
+nest_asyncio
+google-api-python-client
