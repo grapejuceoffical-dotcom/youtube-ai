@@ -1,5 +1,0 @@
-streamlit
-openai
-aiohttp
-nest_asyncio
-requests
